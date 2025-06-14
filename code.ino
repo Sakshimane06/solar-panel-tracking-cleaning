@@ -1,7 +1,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <virtuabotixRTC.h>
 
-#define cleaningTime 9 // 24hr clock
+#define cleaningTime 9  //24hr clock
 #define ldr1pin 34
 #define ldr2pin 35
 
